@@ -72,3 +72,5 @@ TECHNOLOGIES USED:
 7. USB Cable 🔋
    - Information: A standard cable for connecting devices to a computer for data transfer and power supply.
    - Use: Connects the Arduino to the computer for uploading code and powering the board.
+
+![Screenshot (1)](https://github.com/user-attachments/assets/9e69ce61-a15e-4eb0-b2b3-c33ca3a8a13f)
