@@ -74,3 +74,5 @@ TECHNOLOGIES USED:
    - Use: Connects the Arduino to the computer for uploading code and powering the board.
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/d9515d1f-8581-40a4-97b0-79d7bbbefef4)
+
+![LED BLINLING ](https://github.com/user-attachments/assets/c8fcb34a-5e34-4bb8-8913-729d4a0f65a1)
