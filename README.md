@@ -73,4 +73,4 @@ TECHNOLOGIES USED:
    - Information: A standard cable for connecting devices to a computer for data transfer and power supply.
    - Use: Connects the Arduino to the computer for uploading code and powering the board.
 
-
+![Screenshot (2)](https://github.com/user-attachments/assets/d9515d1f-8581-40a4-97b0-79d7bbbefef4)
